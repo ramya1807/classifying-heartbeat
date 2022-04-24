@@ -6,7 +6,7 @@ Our project aims to use the most suitable deep learning model to classify heartb
 ## Members
 Ramya Sriram 
 <br> Wong Kai Kang
-Xu Song
-Zhu Dan
-Tan Yan Siew
-Alyssa Ng
+<br> Xu Song
+<br> Zhu Dan
+<br> Tan Yan Siew
+<br> Alyssa Ng
